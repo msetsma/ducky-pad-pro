@@ -39,7 +39,6 @@ A repository for managing configurations and sharing custom designs for the [Duc
 
 ## **Features**
 
-
 1. **Custom Case Designs**:
    - **Low-Profile Option**: 
      - A slim top and button design.
@@ -59,25 +58,6 @@ A repository for managing configurations and sharing custom designs for the [Duc
 
 ---
 
-## **Usage**
-
-
-### **3D Printing the Case**
-1. Navigate to the `case/` folder.
-2. Choose between:
-   - `low-profile/`: For a slim, compact design (print the button twice).
-   - `standard/`: For a more traditional design (print the button twice).
-3. Download the `.stl` file(s) and print them using your preferred 3D printer.
-   - Recommended material: PLA or ABS for durability.
-   - Suggested layer height: 0.16mm for optimal detail.
-   - I used tree supports (remove them carefully).
-
-### **Customizing the Case**
-1. Use the `.step` files in your preferred CAD software (e.g., Fusion 360, SolidWorks).
-2. Modify the design as needed.
-3. Export as `.stl` for 3D printing.
-
----
 
 ## **Case Types**
 
@@ -101,6 +81,47 @@ A repository for managing configurations and sharing custom designs for the [Duc
 ### This is my 3D printed case!
 
 <img src="case/DPP%20Case%20Finished.png" alt="Low Profile Case" width="250" />
+
+---
+
+## ⚠️ **Disclaimer**
+
+- The designs and configurations in this repository are provided as-is. If you manage to damage your duckyPad Pro or case during printing, assembly, or use, that’s on you.
+- **Use at your own risk.** Building things can be fun, but it does require some basic competence. If something goes wrong, double-check your steps, printer settings, or maybe just your life choices.
+- While this should be straightforward, **precision matters.** If you think duct tape is a valid tool for fine assembly, you might want to ask for help.
+- **In short**: If you break it, it is your fault it. Build responsibly, have fun, and don’t blame me if your DIY skills aren’t up to par.
+
+## **Usage**
+
+### **3D Printing the Case**
+1. Navigate to the `case/` folder.
+2. Choose between:
+   - `low-profile/`: For a slim, compact design (print the button twice).
+   - `standard/`: For a more traditional design (print the button twice).
+3. Download the `.stl` file(s) and print them using your preferred 3D printer.
+   - Recommended material: PLA or ABS for durability.
+   - Suggested layer height: 0.16mm for optimal detail.
+   - I used tree supports (remove them carefully).
+4. Once printed, assemble the case using the provided hardware:
+   - The design includes built-in bottom spacers to eliminate compatibility issues with different spacer sizes (e.g., 2.5mm or 3mm).
+   - To assemble the bottom portion, the screw will pass through:
+       1. The bottom case (including the built-in spacers),
+       2. The duckyPad PCB,
+       3. And then screw into the top 4mm spacer.
+   - Place the buttons into the top case, then attach the top case. For easier assembly, position the case sideways or upside down while securing it. 
+
+--- 
+
+### **Customizing the Case**
+1. Use the `.step` files in your preferred CAD software (e.g., Fusion 360, SolidWorks).
+2. Modify the design as needed.
+3. Export as `.stl` for 3D printing.
+
+### 🙅‍♂️ **No Custom Requests**
+
+- While I’m happy to share these designs and configurations, **I am not your personal CAD designer** or assembly assistant.
+- If you want a case shaped like a spaceship or a configuration that orders your coffee, **you’re on your own.** The provided STEP files are editable—unleash your creativity and make it happen!
+- **In short**: Feel free to customize, remix, and build on these designs. It’s part of the fun of DIY!
 
 ---
 
