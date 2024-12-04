@@ -10,27 +10,28 @@ A repository for managing configurations and sharing custom designs for the **du
 ## **Repository Structure**
 
 ```
-.  ducky-pad-pro
-│   ├──  case                                             # Custom case design files
-│   │   ├──  low-profile                                  # Low profile design files
-│   │   │   ├──  'DPP Case Low Profile - Button.step'
-│   │   │   ├── 󰆧 'DPP Case Low Profile - Button.stl'
-│   │   │   ├──  'DPP Case Low Profile - Top.step'
-│   │   │   └── 󰆧 'DPP Case Low Profile - Top.stl'
-│   │   ├──  standard                                     # standard sized design files
-│   │   │   ├──  'DPP Case - Bottom.step'
-│   │   │   ├── 󰆧 'DPP Case - Bottom.stl'
-│   │   │   ├──  'DPP Case - Button.step'
-│   │   │   ├── 󰆧 'DPP Case - Button.stl'
-│   │   │   ├──  'DPP Case - Top.step'
-│   │   │   └── 󰆧 'DPP Case - Top.stl'
-│   │   ├──  'DPP Case Low Profile Render.PNG'
-│   │   └──  'DPP Case Render.png'
-│   ├──  config                                           # My personal scripts
+. ducky-pad-pro
+│   ├── case                                             # Custom case design files
+│   │   ├── low-profile                                  # Low profile design files
+│   │   │   ├── 'DPP Case Low Profile - Button.step'
+│   │   │   ├── 'DPP Case Low Profile - Button.stl'
+│   │   │   ├── 'DPP Case Low Profile - Top.step'
+│   │   │   └── 'DPP Case Low Profile - Top.stl'
+│   │   ├── standard                                     # standard sized design files
+│   │   │   ├── 'DPP Case - Bottom.step'
+│   │   │   ├── 'DPP Case - Bottom.stl'
+│   │   │   ├── 'DPP Case - Button.step'
+│   │   │   ├── 'DPP Case - Button.stl'
+│   │   │   ├── 'DPP Case - Top.step'
+│   │   │   └── 'DPP Case - Top.stl'
+│   │   ├── 'DPP Case Low Profile Render.PNG'
+│   │   ├── 'DPP Case Finished.PNG'
+│   │   └── 'DPP Case Render.png'
+│   ├── config                                           # My personal scripts
 │       ├── ...
-│   └──  README.md
-├──  LICENSE
-└──  README.md                                            # This README file
+│   └── README.md
+├── LICENSE
+└── README.md                                            # This README file
 ```
 
 ---
