@@ -1,7 +1,7 @@
 
 # **ducky-pad-pro**
 
-A repository for managing configurations and sharing custom designs for the **duckyPad Pro**, a customizable macro pad. This includes:
+A repository for managing configurations and sharing custom designs for the [Ducky Pad Pro](https://github.com/dekuNukem/duckyPad-Pro) by [dekuNukem](https://github.com/dekuNukem). This includes:
 - Configuration files written in **Ducky Script** for macro automation.
 - Custom-designed **case files** for the duckyPad Pro in **STL** and **STEP** formats.
 
@@ -106,5 +106,5 @@ A repository for managing configurations and sharing custom designs for the **du
 
 ## **Acknowledgments**
 
-- Inspired by the original [duckyPad Pro](https://github.com/dekuNukem/duckyPad-Pro) by [dekuNukem](https://github.com/dekuNukem). 
+- Inspired by the original [Ducky Pad Pro](https://github.com/dekuNukem/duckyPad-Pro) by [dekuNukem](https://github.com/dekuNukem). 
 - For more details on the Ducky Pad Pro, check out the [Kickstarter](https://www.kickstarter.com/projects/dekunukem/duckypad-pro-advanced-macro-scripting-beyond-qmk-via/description) page.
