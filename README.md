@@ -2,7 +2,7 @@
 # **ducky-pad-pro**
 
 A repository for managing configurations and sharing custom designs for the [Ducky Pad Pro](https://github.com/dekuNukem/duckyPad-Pro) by [dekuNukem](https://github.com/dekuNukem). This includes:
-- Configuration files written in **Ducky Script** for macro automation.
+- Configuration files written in **Ducky Script** for automation.
 - Custom-designed **case files** for the duckyPad Pro in **STL** and **STEP** formats.
 
 ---
