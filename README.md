@@ -47,7 +47,6 @@ A repository for managing configurations and sharing custom designs for the [Duc
    - **Standard Option**: 
      - Designed for a more traditional look and feel.
      - Requires new dials to be printed.
-     - Allows for further customization with third-party components.
 
 2. **Configuration Files**:
    - My personal Ducky Pad Pro scripts.
@@ -87,9 +86,10 @@ A repository for managing configurations and sharing custom designs for the [Duc
 ## ⚠️ **Disclaimer**
 
 - The designs and configurations in this repository are provided as-is. If you manage to damage your duckyPad Pro or case during printing, assembly, or use, that’s on you.
-- **Use at your own risk.** Building things can be fun, but it does require some basic competence. If something goes wrong, double-check your steps, printer settings, or maybe just your life choices.
+- **Use at your own risk.** Building things can be fun, but it does require some basic competence. If something goes wrong, double-check your steps, printer settings.
 - While this should be straightforward, **precision matters.** If you think duct tape is a valid tool for fine assembly, you might want to ask for help.
-- **In short**: If you break it, it is your fault it. Build responsibly, have fun, and don’t blame me if your DIY skills aren’t up to par.
+- **In short**: If you break it, it is your fault. Build responsibly, have fun, and don’t blame me if your DIY skills aren’t up to par.
+---
 
 ## **Usage**
 
@@ -120,7 +120,7 @@ A repository for managing configurations and sharing custom designs for the [Duc
 ### 🙅‍♂️ **No Custom Requests**
 
 - While I’m happy to share these designs and configurations, **I am not your personal CAD designer** or assembly assistant.
-- If you want a case shaped like a spaceship or a configuration that orders your coffee, **you’re on your own.** The provided STEP files are editable—unleash your creativity and make it happen!
+- If you want a case shaped like a spaceship or a configuration that orders your coffee, **you’re on your own.** The provided STEP files are editable, so unleash your creativity and make it happen!
 - **In short**: Feel free to customize, remix, and build on these designs. It’s part of the fun of DIY!
 
 ---
